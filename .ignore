@@ -1,0 +1,12 @@
+################################################################
+#                                                              #
+#     EN ESTE ARCHIVO SE LISTAN TODOS LOS ARCHIVOS O           #
+#     DIRECTORIOS A IGNORAR CUANDO HAYA ACTUALIZACIONES        #
+#                                                              #
+################################################################
+
+$cat .gitignore
+/README
+*~ 
+*.exe
+
